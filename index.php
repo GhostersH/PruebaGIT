@@ -15,7 +15,7 @@ incluirTemplate('header', $inicio = true);
         <div class="icono">
 
             <img src="build/img/icono1.svg" alt="Icono Seguridad" loading="lazy">
-            <h3>Seguridad </h3>
+            <h3>Seguridad CAMBIO REALIZADO PROBANDO GIT</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab reiciendis aspernatur fugiat nam beatae
                 doloremque quasi, totam veniam possimus distinctio! Molestiae soluta quis aliquid repellendus iure
                 tenetur reiciendis illo quo.</p>
